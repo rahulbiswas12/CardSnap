@@ -221,6 +221,7 @@ if generate:
 st.markdown("""
 <div style="text-align:center; color:#94a3b8; font-size:0.75rem; margin-top:2rem;">
     Aadhaar · Voter ID · PAN · DL · Any Card<br>
-    Processed locally · Nothing uploaded to server
+    Processed locally · Nothing uploaded to server<br><br>
+    Created with ❤️ by <a href="https://rahulbiswas-nine.vercel.app/" target="_blank" style="color:#63b3ed; text-decoration:none;">Rahul</a>
 </div>
 """, unsafe_allow_html=True)

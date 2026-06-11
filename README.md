@@ -2,7 +2,7 @@
 
 **CardSnap** is a mobile-friendly web app that converts ID card photos into a compact, print-ready A4 PDF — all under 200 KB. Upload the front and back of any card, and get an auto-download in seconds.
 
-🔗 **Live Demo:** [card-snap-two.vercel.app](https://card-snap-two.vercel.app)
+🔗 **Live Demo:** [https://cardsnap.streamlit.app/](https://cardsnap.streamlit.app/)
 
 ---
 
